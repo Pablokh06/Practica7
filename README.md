@@ -1,0 +1,1 @@
+# El fichero es basico, el proyecto que hice es como las practicas guiadas anteriores, usando el mismo modelo de pagina seguir los pasos propuestos
